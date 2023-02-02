@@ -140,7 +140,7 @@
   height: 100%;
 }
 
-.second-sec-titel-des h1 {
+.second-sec-titel-des h2 {
   font-weight: 700;
   font-size: 45px;
   line-height: 53px;
@@ -350,7 +350,7 @@
   /* 1st section */
   .first-section {
     flex-direction: column;
-    margin: 50px 20px;
+    margin: 50px auto;
   }
   .first-section-img {
     grid-template-columns: repeat(1, 1fr);
@@ -379,7 +379,7 @@
 
   .second-section {
     flex-direction: column-reverse;
-    margin: 50px 25px 25px;
+    margin: 50px  auto 25px;
     gap: 40px;
   }
   .second-sec-img {
@@ -392,10 +392,10 @@
   .second-sec-text {
     width: 300px;
   }
-  .second-sec-titel-des h1 {
+  .second-sec-titel-des h2 {
     width: 300px;
     margin: 10px 5px;
-    font-size: 35px;
+    font-size: 30px;
   }
   .second-sec-titel-des p {
     width: 250px;
