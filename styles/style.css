@@ -336,6 +336,7 @@
   .header-text {
     padding: 10px 20px;
     margin-bottom: 20px;
+    width: 300px;
   }
   .primary-btn {
     margin-bottom: 10px;
