@@ -317,12 +317,15 @@
     flex-direction: column;
     padding: 10px 0;
     align-items: center;
+    width: auto;
   }
   .logo h1 {
     padding-top: 10px;
+    font-size: 40px;
   }
   .menu ul {
     gap: 1.5em;
+    width: auto;
   }
   .menu ul > li {
     margin-top: 10px;
